@@ -1,0 +1,5 @@
+AgeGroup,User_Count,Avg_Salary,Purchase_Rate
+<30,0,,
+30-40,0,,
+40-50,85,71001.12,0.4
+>50,79,73421.75,0.37
